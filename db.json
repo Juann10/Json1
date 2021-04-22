@@ -1,15 +1,14 @@
 {
-"Colecciones": 
-[
+"Colecciones": [
     {
       "nombre": "Ataque a los titanes Lost Girls 01",
       "precio": "7,60€",
-      "imagen": "ataque-a-los-titanes-lost-girls-01.jpg",
+      "imagen": "ataque-a-los-titanes-lost-girls-01.jpg"
     },
     {
       "nombre": "Ataque a los titanes Lost Girls 02",
       "precio": "7,60€",
-      "imagen": "../Imagenes/Novedad1.PNG",
+      "imagen": "../Imagenes/Novedad1.PNG"
 
     }
 ]
